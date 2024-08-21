@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Linux-Driver/b1-hello-pi/hellopi.mod := printf '%s\n'   hellopi.o | awk '!x[$$0]++ { print("/home/pi/Linux-Driver/b1-hello-pi/"$$0) }' > /home/pi/Linux-Driver/b1-hello-pi/hellopi.mod

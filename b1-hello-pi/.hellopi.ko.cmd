@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Linux-Driver/b1-hello-pi/hellopi.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/pi/Linux-Driver/b1-hello-pi/hellopi.ko /home/pi/Linux-Driver/b1-hello-pi/hellopi.o /home/pi/Linux-Driver/b1-hello-pi/hellopi.mod.o;  true
