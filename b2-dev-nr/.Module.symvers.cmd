@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Linux-Driver/b2-dev-nr/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/pi/Linux-Driver/b2-dev-nr/Module.symvers -T /home/pi/Linux-Driver/b2-dev-nr/modules.order -i Module.symvers -e 

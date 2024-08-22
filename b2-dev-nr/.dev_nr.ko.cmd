@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Linux-Driver/b2-dev-nr/dev_nr.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/pi/Linux-Driver/b2-dev-nr/dev_nr.ko /home/pi/Linux-Driver/b2-dev-nr/dev_nr.o /home/pi/Linux-Driver/b2-dev-nr/dev_nr.mod.o;  true
